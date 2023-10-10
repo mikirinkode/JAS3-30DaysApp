@@ -1,4 +1,4 @@
-![Screenshot 2023-10-11 062052](https://github.com/mikirinkode/JAS3-30DaysApp/assets/69853015/774cf430-e9b2-4580-b984-51b556538b1e)# JAS3 - 30 Days Creative Challenge
+# JAS3 - 30 Days Creative Challenge
 
 Juara Android Season 3
 <br><br>
