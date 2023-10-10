@@ -10,11 +10,6 @@ object DummyData {
             illustrationId = R.drawable.abstract_art
         ),
         DailyActivity(
-            name = "Photo Manipulation",
-            description = "Take a photo (it could be one you've taken previously or a new one) and manipulate it creatively using photo editing software. Experiment with filters, blending modes, and effects.",
-            illustrationId = R.drawable.martial_arts
-        ),
-        DailyActivity(
             name = "Nature Sketch",
             description = "Go outdoors and sketch a natural scene or object. Focus on capturing the details and textures of plants, trees, flowers, or any aspect of nature that inspires you.",
             illustrationId = R.drawable.nature_scetch
@@ -40,6 +35,16 @@ object DummyData {
             illustrationId = R.drawable.miniature_world
         ),
         DailyActivity(
+            name = "Photo Manipulation",
+            description = "Take a photo (it could be one you've taken previously or a new one) and manipulate it creatively using photo editing software. Experiment with filters, blending modes, and effects.",
+            illustrationId = R.drawable.martial_arts
+        ),
+        DailyActivity(
+            name = "Ink Drawing",
+            description = "Create a drawing using ink paint.",
+            illustrationId = R.drawable.ink_drawing
+        ),
+        DailyActivity(
             name = "Color Explosion",
             description = "Create a vibrant abstract artwork using every color in your palette. Experiment with color combinations, blending, and layering to make the colors pop.",
             illustrationId = R.drawable.color_explosion
@@ -53,11 +58,6 @@ object DummyData {
             name = "Recycled Art",
             description = "Create art using only recycled materials you find at home. This could include cardboard, old newspapers, bottle caps, or any other discarded items.",
             illustrationId = R.drawable.recycled_art
-        ),
-        DailyActivity(
-            name = "Ink Drawing",
-            description = "Create a drawing using ink paint.",
-            illustrationId = R.drawable.ink_drawing
         ),
         DailyActivity(
             name = "Sculpture Challenge",
